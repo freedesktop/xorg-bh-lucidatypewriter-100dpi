@@ -23,7 +23,7 @@ dnl Process this file with autoconf to create configure.
 
 AC_PREREQ([2.57])
 AC_INIT([font-bh-lucidatypewriter-100dpi], [1.0.3],
-        [https://bugs.freedesktop.org/enter_bug.cgi?product=xorg],
+        [https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-100dpi/issues],
         [font-bh-lucidatypewriter-100dpi])
 AM_INIT_AUTOMAKE([foreign dist-bzip2])
 
